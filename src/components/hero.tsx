@@ -1,6 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Download, Github, Linkedin } from "lucide-react";
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Hero() {
   return (
@@ -52,8 +53,8 @@ export default function Hero() {
           </div>
           <div className="relative hidden md:block">
             <div className="aspect-square rounded-full bg-emerald-200/50 flex items-center justify-center overflow-hidden">
-              <img
-                src="/placeholder.svg?height=400&width=400"
+              <Image
+                src="/pictures/profile.jpg"
                 alt="Muhammad Thariq Arya Putra Sembiring"
                 className="rounded-full border-4 border-white shadow-lg"
                 width={400}
