@@ -15,7 +15,7 @@ export default function Footer() {
 
           <div className="flex space-x-6">
             <Link
-              href="https://github.com"
+              href="https://github.com/mhdthariq"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-emerald-400 transition-colors"
@@ -24,7 +24,7 @@ export default function Footer() {
               <span className="sr-only">GitHub</span>
             </Link>
             <Link
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/muhammad-thariq-arya-putra-sembiring"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-emerald-400 transition-colors"
