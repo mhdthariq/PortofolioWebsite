@@ -30,7 +30,7 @@ export default function Hero() {
             </div>
             <div className="flex gap-4 pt-4">
               <Link
-                href="https://github.com"
+                href="https://github.com/mhdthariq"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -40,7 +40,7 @@ export default function Hero() {
                 </Button>
               </Link>
               <Link
-                href="https://linkedin.com"
+                href="https://linkedin.com/in/muhammad-thariq-arya-putra-sembiring"
                 target="_blank"
                 rel="noopener noreferrer"
               >
